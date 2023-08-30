@@ -1,0 +1,7 @@
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\bin\Debug\NumGuessGame.exe.config
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\bin\Debug\NumGuessGame.exe
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\bin\Debug\NumGuessGame.pdb
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\obj\Debug\NumGuessGame.csproj.AssemblyReference.cache
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\obj\Debug\NumGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\obj\Debug\NumGuessGame.exe
+C:\Users\muppa\source\repos\NumGuessGame\NumGuessGame\obj\Debug\NumGuessGame.pdb
